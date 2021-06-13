@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+nav{
+    position: fixed;
+    width: 100%;
+    z-index: 333333;
+}
+#Contact{
+    text-align: center;
+}
